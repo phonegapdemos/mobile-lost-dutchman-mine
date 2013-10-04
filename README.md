@@ -1,5 +1,5 @@
-Lost Dutchman Mine for mobile devices
-=====================================
+Mobile Lost Dutchman Mine
+=========================
 If only I get some spare time, I'm planning to build (revive) never forgotten "Lost Dutchman Mine" game to the mobile world. It will be written / build with PhoneGap Build (pure, without plugins), so should be available to as much mobile platforms as possible.
 
 I _don't know_ and I _don't care_ if anyone done some similar adventure-shooting-survival game. I don't care, if anyone will want to play my game. I love it so much, that I'm going to write it, even if I would be the only player in the entire world.
@@ -38,4 +38,4 @@ Some new things and stuff for consideration:
 
 4. As consequece to above -- Increase bank role, where you not only deposit money or take loans, but can also open a monthly paid secret box, to store thing not everyone would be happy to see in your hands. Plus: The more time you deposit money and the better character you have, the higher chance you'll get a bigger loan on better conditions.
 
-More to come.
+More to come...
