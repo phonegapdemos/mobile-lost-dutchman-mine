@@ -1,0 +1,40 @@
+Original data
+-------------
+http://www.lemonamiga.com/games/details.php?id=697
+
+Copyright:  1989, Innerprise
+Developer:	Magnetic Images
+Creator:	David Lindsley, Steve Marshall
+Conversion:	Jim Biggs
+Hardware:	OCS
+Disks:	    1
+Genre:      Adventure Miscellaneous
+License:	Commercial
+Language:	English
+Players:	1 Only
+Price:      $49.95
+
+
+abandonia.com
+-------------
+http://www.abandonia.com/games/740
+
+There you are, found your way through the vast Superstition Mountains of Arizona. 
+Only one idea remains fixed in your mind: Discovering the glamorous riches of the Lost Dutchman Mine. There had been many who followed the same path as you. Unfortunately (fortunately?) none accomplished so far. You maybe? Well ... This isn't going 
+to be an easy task.
+
+Lost Dutchman Mine begins in "Goldfield" town, just where you can find everything you need to be an "old-timer". Your status is indicated with three guidelines: Health, food and water. As you will be going through expeditions, sometimes for a week, you will need a good load of supplies from the Mercantile. Take your time and choose wisely, as you don't have a big bag to carry everything around. Saloon may be used to sleep, a few sips and maybe some gambling with "Dapper Dan." If you can suceed to find some gold, try Assay Office. Their exchange rates are fine, besides there is nowhere else in the middle of the desert to exchange your bag of ores with money. If you are more succesfull and could make a thousand bucks, head to Livery Stable for a reliable friend. Be careful exploring the desert. There are rattlers, bandits after your money, and indians trying to steal your burros (reliable friends).
+
+There are different different modes that the game will put you in, which are equally basic and so fun (something basic is something fun says I). The game runs on real-time, and you need to do what you would need to do in a real expedition: get well equipped, be sure to check your supplies often and don't panic once you encounter danger. After all isn't it this very feature that makes a game addictive in the first place?
+
+Midi music and a few sound effects are available if you run the game with DosBox. Graphics are not the best you will see around 89's but they sure keep you on focus. Select CGA or MCGA graphics at the beginning of the game if you dont want to be hypnotised and maybe hurt your eyes.
+
+
+myabandonware.com
+-----------------
+http://www.myabandonware.com/game/lost-dutchman-mine-p0#download
+
+Lost Dutchman Mine is a game published in 1989 by Magnetic Images, the theme is real-time. It features a simulation genre and uses a top-down perspective.
+
+A "one-hit wonder" from short-lived Magnetic Images is a solid game set in the Gold Rush of 1800s. As newcomer to Goldfield, you must find the map to legendary Lost Dutchman Mine, then claim it for fame and fortune. There are numerous ways to raise cash to fund your venture: you can pan for gold in the river, kill wanted criminals to claim bounty, and play poker in the saloon. A slow-paced game, but there are more than enough options to explore. 
+Review by HOTUD

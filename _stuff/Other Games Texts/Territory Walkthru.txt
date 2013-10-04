@@ -1,0 +1,203 @@
+Territory: the Mountain Men - Walkthrough
+
+Territory is a sandbox game.  There is no set procedure to follow to reach the goals. There is 
+very little micro-management.
+
+Move the mouse over the difficulty level icons to see the goal objectives for bronze, silver and 
+gold awards.  Then click on the one you decide on.
+
+You don't have to read the story unless you want some background on the era and the location.
+
+Look at the HELP page.  Help is also available on the taskbar and in the hints.
+
+The taskbar is displayed when you hit ENTER.  It contains buttons for Annual Report, Map, 
+Travel, Trading Post, Quick Save, Quick Load and Pause.
+
+Click NEW GAME.
+
+You start in the Missouri River.  Ahead is the confluence of the MIssouri and Yellowstone.  Hit 
+ENTER to open the taskbar and click MAP.
+You'll see your little guy in that area.  
+
+Click the pistol CONTINUE to return to the scene.  You can also use the keyboard M to toggle 
+the map on/off.
+
+The river on the left is the Yellowstone; on the right the Missouri.  Now is a good time to look 
+at the hints.  Hit "H".
+
+Bonuses
+Ahead in the water you'll see a floating barrell.  Using the mouse to steer and the right mouse 
+button to paddle, run into it and click "yes" to open up the bonus panel.  Read the info and read 
+the help info at the bottom of the screen.  Accept the challenge.  You can always bring the help 
+info for the bonus up again by hitting R on the keyboard.  As you try to complete the bonus 
+tasks you will run into other events that sometimes make it hard to remember what you were 
+setting out to do.
+
+By accepting the bonus tasks you will learn certain elements of the game.  There are five in all.  
+You will be offered the opportunity to take the second one when you finish the first, etc.
+
+Establish a Trading Post
+Paddle forward to the junction of the two rivers.  A screen will open that allows you to build a 
+trading post. Click the arrowhead to the left of the sentence, "Establish Fort Union Trading Post".   
+The post will appear on the left bank of the Missouri.  The Sioux village is on the right bank 
+(north).
+
+Docks
+These allow you to go ashore if you ram them with your canoe.
+
+Canoes
+These will put you back on the water if you are on land.
+
+Barrels and Buffalo Skulls
+There are many other barrels floating along the rivers.  You have a choice of finding whether 
+they contain something helpful or something perilous.  When you first play the game check 
+them all out--the worst that can happen is a scalping which is not lethal in this game.  We've 
+gotta keep you alive so you can become a rich fur tycoon.  The skulls on posts on the land are 
+also chances for good or bad if you check them out by running into them.
+
+Tribes
+Finding tribes is essential to winning the game.  When you have located four of them you 
+advance to Trader rank and then you can paddle faster and run on land by using both mouse 
+buttons.  Reaching the higher ranks--Trailblazer, Explorer--you increase your profits on fur 
+sales.
+When a tribe is located you can subsequently use a shortcut to get there.  Just hit ENTER and 
+TRAVEL, or keyboard shortcut "G".  A panel will offer you a list of the tribes.  Clicking on one 
+that you have located will transport you instantly to that village--sort of a 19th Century Star 
+Trek transporter beam action a little before its time.
+
+Trading
+The chief will offer to trade if they are not on the warpath.  Until you get better at the game, 
+accept their offer of pelts for sale.  Then click on buy/sell button and you will see the trading 
+panel.  On the left is what you have in your inventory.  In the middle is the price for that item.  
+On the right is the tribes goods.  As the game progresses your settlers will gobble up all the 
+food at the Fort Union Trading Post, so check the amount of food in your inventory and if it is 
+low, buy from the tribe by clicking the arrow pointing to the left.  One click for each unit of 
+food purchased.  If you have trade goods in your inventory sell as much as you can to the tribe 
+until they run out of money.
+
+Keeping up the food supply
+When the game starts and you establish the Fort Union post you have only one person there.  
+But settlers start coming and you will find it necessary to assign farmers, ranchers and 
+fishermen to keep them fed.   You can do this by hitting ENTER and TRADING POST or by 
+hitting M and clicking the trading post icon of Fort Union on the map. You can buy food from 
+the tribes, or you can travel to St. Louis and buy it--ENTER/TRAVEL/GO TO ST. LOUIS.  
+
+You will also at some point have to augment the food by going to St. Louis and hiring buffalo 
+hunters and bakers.  They will increase production. Taking care of food production will allow 
+the settlers to feed themselves but until you get them self-sufficient you will have to buy food.  
+Failure to provide food for the settlers will bankrupt your company and end the game.
+
+Warehouses 
+You initially have warehouse space for 300 furs.  If you don't sell them and collections go over 
+that amount they are often refused.  By assigning a logger and hiring a carpenter you can 
+double the warehouse capacity to 600.
+
+Selling Furs
+Keep an eye on the amount of furs listed below the compass.  When you have enough to sell 
+you can sell them by hitting ENTER and TRADING POST or by hitting M and clicking the trading 
+post icon of Fort Union on the map.
+
+Compass
+If you get disoriented check the map for your approximate location and then use the compass to 
+help find your way.
+
+
+Going to St. Louis
+To hire buffalo hunters, gunsmiths, bakers, carpenters and trappers you must go to St. Louis.  
+Hit ENTER and TRAVEL and you will get the panel that allows you to pick St. Louis (at the top) as 
+your destination.  Having a couple gunsmiths will keep a supply of trade guns in your 
+inventory.
+
+Trapper Cabins
+The way to maximize fur production is to set up trapper cabins.  There are five places where 
+you can do that. They require a trapper and $100.  When you set up cabins and posts you 
+increase your total assets.  Your cash and assets are combined to reach your goal.  A trapper 
+cabin will automatically contribute a number of pelts to the trading post every so often.
+
+Wonders
+As you explore you may run into Wonders that will get you an exploration bonus from the 
+territorial governor.  For example, approaching the falls at the head of the Marias River past the 
+Gros Vente village is one of those locations.
+
+Hand to hand combat
+Fighting grizzlies, wolves or hostiles with hatchet, knife, torch or a combination of those is done 
+with only two controls.  Left mouse attacks.  Right mouse runs.  So move around if you're 
+losing health and try attacking from a different angle or place.  You won't die if you fail.  You 
+will probably lose some money or furs. If you win you may gain something valuable like a map 
+to a gold mine.
+
+Duck Hunt
+You can augment the food supply by hunting ducks.  You have a rapid-firing cap and ball pistol 
+so lay out a stream of balls ahead of them and shoot like crazy.  You'll get the hang of it.  You 
+can practice the duck hunt on the Help page of the menu.
+
+Cabin and Rockpile shoot-outs
+In these situations where you are being fired on by voyageurs (Hudson Bay french trappers) or 
+Braves you must hit the space bar to reload each time.  You can also hold the space bar down 
+to stay ducked until you're ready to shoot.  There is no crosshair.  Just watch where your pistol 
+ball goes and correct your aim next time you pop up.  
+You can practice shooting on the Help page of the menu.
+
+The Gold Mine
+If you get both halves of the gold mine map, you will find a button above the taskbar that, when 
+clicked, displays the detailed map.  "Roche Jaune" on the map is the French name for the 
+Yellowstone River.  The map shows the way to a stone pyramid that triggers the mine level.
+
+Rival trading Posts
+You may come across a rival post.  If you burn it, it will cost that company $1000 and help you 
+stay ahead of the competition which you must do to win the game.  The rival company may 
+retaliate.
+
+The pass over the mountains
+There's only one way to find the pass and that's by rescuing the nubile young Indian maiden 
+that's being attacked by a grizzly.  If you get whipped by the griz, look for the jug of Kickapoo 
+Joy Juice that's on the ground near the girl.  That will give you the extra health you need.  If 
+you never find the pass it's probably still possible to win the game.  But there are more tribes to 
+the West and other opportunities.
+
+Telescope and changing views
+Hit V to change the view and use the middle mouse button to use the telescope.  When 
+searching for a tribal village, use the telescope and look for smoke.
+
+Annual Report
+You can check your progress and stats any time by hitting ENTER for the taskbar and REPORT.
+
+Save and Load
+You can save your progress in the game on the taskbar.  It does not save it if you quit the 
+game.  It is only an in-game save that can return you to a previous saved location during the 
+session.
+
+Pause
+Also available on the taskbar or by hitting P.
+
+Goal
+Keep in mind that success depends on the amount of furs you buy from tribes and collect from 
+the trading posts and trapper cabins.  Once you have discovered a tribe you can get there 
+quickly to trade (teleport?) by using ENTER/TRAVEL/GO TO TRIBE
+
+Ranks
+You begin as a Trapper.  Finding three more tribes will make you a Trader and allow you to run 
+on land and paddle faster in the canoe.  Trailblazer and Explorer ranks increase production 
+from trapper cabins and the profit from furs.  Tycoon rank is achieved by making money 
+beyond what's needed to win the game.
+
+Known bugs
+If the cursor disappears when the taskbar is showing, hit ENTER to bring it back. 
+Sometimes ambient sounds interfere the very first time you play the game.  Just exit and start 
+over. 
+If you find other bugs please report them to bugs@atticgamez.com
+
+One version of the game puts a shortcut in the startup file.  Go to programs/startup and delete 
+it.
+
+High Score
+
+Your score, which is the total of cash, assets like trading posts and cabins, and the value of 
+stockpiled furs, is shown at the end of the game along with the previous high score.
+
+
+
+ 
+
+
+

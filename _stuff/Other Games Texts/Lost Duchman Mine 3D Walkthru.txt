@@ -1,0 +1,77 @@
+STARTING OUT
+
+Choose a difficulty. Click the question mark to see the menu. You have until 1900 to find the Lost Dutchman Mine. 
+
+THE TOWN 
+
+You start in the town of Lizard Gap.  
+
+Click the "?" to see the goals, the playing instructions and to read the story of why you're there.   
+
+Click the "M" to see a map of the desert.
+
+Click the music note to shut off the bluegrass band.
+
+Click the "$" to see your total wealth--cash, bank, & mines.
+
+At the normal difficulty you have $300 (upper left corner, 6 shots in your gun, and 100 health points.  You only lose health points while prospecting. 
+
+Click on the doorway to the "Fisher Mercantile".  The Old Timer will walk there and you will see a menu of things available.  Buy a burro. 
+
+Now you have $150. Buy a gold pan. 
+
+Burro and pan icons show up in the lower left corner. 
+
+Now you can go prospecting but you still have some money.  With it you can add any of the other items from the store.  The lantern and pick & shovel will allow you to get into mines where the large amounts of gold are.  The canteen might keep you alive longer in the desert.  More ammo might save you from Indians, Bandits and Rattlers. 
+
+Grub, Long johns, Snake Serum, whiskey (in the saloon) and Elixir (Doc's office) all add health points, which add to your time in the desert. 
+
+Or you can take the extra money to the saloon and try to run it up in the Faro game.
+
+THE SALOON 
+
+Before leaving town you might want to explore the businesses.  Walking up to the doorways will bring up information you can act on.  Walking up to the saloon will freeze the game momentarily and then you'll be inside in first person mode.  In the saloon you walk with the right mouse button and guide yourself and look around with the mouse.  Some of the denizens will talk to you.  Walking up to the bar will get you a shot of whiskey if you're not broke.  Try not to annoy the ladies. The lady at the bar might loan you a grubstake if you're broke. Just walk into the swinging doors to exit to the street.   
+
+THE LAND OFFICE
+
+The Land Office is where you can file a claim on a mine once you have $1000 cash.  Owning a mine will bring you a periodic income.  There's no one home at the Laundry next door.  
+
+THE BANK
+
+If you have extra cash (upper left corner) put it in the bank.  When you click deposit, all your cash will go into the bank.  You can withdraw it $20 at a time by clicking withdraw and it will go back into the box into the cash in the upper left corner.   
+
+HINT: It's good to have $50 cash in the desert in case you need to buy supplies from friendly Indians.
+
+THE NEWSPAPER
+
+Read the latest news at the newspaper.  It changes once in a while.   
+
+THE STABLE
+
+Going to the livery stable gives you the opportunity to sell your burro.  If you're flat broke and have no gold pan or lantern, you can always get a few bucks from Slippery Bill and try to improve your cash amount by playing Faro in the saloon. 
+
+THE DESERT 
+
+You can get to the desert by walking the Old Timer between the gap in the line of businesses or to the end of the street.  Once in the desert, click on a location and the Old Timer will walk there and start picking.  Various pop-ups tell you what is found.  Your health will go down as you wander around unless you find a stream, a water hole, or some food to raise it up. 
+
+You need to explore the desert if you expect to find the four map stones and the Lost Dutchman Mine.  Check the map, "M", and locate the signs on the cactus "This way to Lizard Gap".  You may need to know how to find it when your health is dangerously low.  Going back to town will allow you to buy grub, etc., to increase your health.
+
+TAKING A RISK 
+
+Sometimes the nugget  "Gold or Peril" appears.  If you don't want to take a chance just ignore it and it will go away. 
+
+If you click on it, you will either be in a mine, where you will look with the mouse, walk with the right mouse button, and pick with the left button. That's where you'll find the big deposits of gold.   Or you will be under attack by Indians, Bandits or a Rattler.  You can shoot it out  (space bar to cock and left mouse button to fire the old Colt)  if you have enough ammo, or you can hit enter to run.  If you run, you lose any gold and ammo you are carrying.  Don't try to shoot it out with them if your health is in the yellow or red.
+
+Hint: If your cash is at "0", don't waste your ammo, just run, you have nothing to lose. 
+
+It's a good idea to head for town when you have more cash than you want to risk.  It'll be safe in the bank (he says with a smirk). You start as a tenderfoot but as you find gold you will become a prospector, a desert rat, and finally a sourdough. Your final score is determined by the total of your cash, bank account and mine assets. Finding the four map stones and the fabled mine will add $1,000,000 to your assets.
+
+The Lost Dutchman Mine 3D Version 2.0
+
+ (c) 2010 Rod Fisher, Attic Games
+
+ 
+
+ 
+
+ 
