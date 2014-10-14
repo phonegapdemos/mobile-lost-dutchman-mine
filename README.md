@@ -1,30 +1,32 @@
+# Mobile Lost Dutchman Mine game
+
 If only I get some spare time, I'm planning to build (revive) never forgotten "Lost Dutchman Mine" game to the mobile world. It will be written / build with PhoneGap Build (pure, without plugins), so should be available to as much mobile platforms as possible.
 
-I _don't know_ and I _don't care_ if anyone done some similar adventure-shooting-survival game. I don't care, if anyone will want to play my game. I love it so much, that I'm going to write it, even if I would be the only player in the entire world.
+I _don't know_ and I _don't care_, if anyone done some similar adventure-shooting-survival game. I don't care, if anyone will want to play my game. I love it so much, that I'm going to write it, even if I would be the only player in the entire world.
 
 The only thing, that concerns me right now, are copyrights. Even though I conducted deep research, I wasn't successfull in finding, who holds copyrights for the original game and if or under what condition I could re-use original game's graphics (to revive _that_ climat)? So, at this point, I don't know, if my product will be 100% copy (with some modifications -- see below) of that ancient already game? Or if I'll have to seek for some graphician, that will make some similar graphics design and only "borrow" game's idea (see below for some details)?
 
 Everyone is invited to participate in this project, if only it oficially starts.
 
 
-# The Game
+## The Game
 
 I don't have to explain anything about this one and only game in the world. If you haven't ever heard about "Lost Dutchman Mine", you can go back to your sandbox (you're to young! :]) or seek for another project. Don't disturb real geeks' time or we're all going to curse you! :P
 
 We can do (soft plans) this in one of four different ways:
 
-a) pure text game, with some dully UI,
+- pure text game, with some dully UI,
 
-b) text game in the beginning, with some dully UI + seek for some graphician, that'll do some cool new graphic for it,
+- hire some graphician, that'll do some cool new graphic for it,
 
-c) steal original graphic piss-off eventual copyright blah, blah, blah (risky!),
+- steal original graphic _piss-off_ eventual copyright blah, blah (risky!).
 
-d) steal original graphic in the beginning + seek for some graphician, that'll do some cool new graphic for it.
+- try to locate copyrights owner and purchase right for using original graphics.
 
 Or we can always wait, seek for copyright holder and gather money to buy that copyrights, once owner will be located. This way, we're all going to die and maybe our sons will finish this project (yak!).
 
 
-# Some possible modifications to original idea
+## Possible modifications to original idea
 
 Some new things and stuff for consideration:
 
